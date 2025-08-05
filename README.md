@@ -1,6 +1,13 @@
 
 
 
+## Check IP address
+
+```sh
+ip addr
+```
+
+
 ## Create directory silently
 
 ```sh
