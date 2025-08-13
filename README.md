@@ -7,6 +7,8 @@
 ip addr
 ```
 
+<img src="./images/ipAddr.png">
+
 
 ## Create directory silently
 
